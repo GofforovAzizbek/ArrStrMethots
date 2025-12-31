@@ -11,7 +11,7 @@
 
 // 3-
 // const arr = [1, 2, 3];
-// arr.push(5);
+// arr.push(4);
 // console.log(arr); // [1, 2, 3, 4]
 
 // 4-
@@ -56,7 +56,7 @@
 // console.log(result); // [1, 2, 5, 7, 9]
 
 // 2-
-// const str = "apple, banana,cherry";
+// const str = "apple, banana, cherry";
 // const result = str.split(",").map(item => item.trim());
 // console.log(result); 
 // // ["apple", "banana", "cherry"]
@@ -68,7 +68,7 @@
 // // true
 
 // 4-
-// const str = "Javascript";
+// const str = "JavaScript";
 // const result = str.substring(0, 4);
 // console.log(result); 
 // // "Java"
@@ -153,13 +153,13 @@
 // // Masalan: [3, 5, 7]
 
 // 3-
-// const str = "apple banana apple orange banana aaaaaaaaaaaaaa";
+// const str = "apple banana apple orange banana";
 // const result = [...new Set(str.split(" "))];
 // console.log(result);
 // // ["apple", "banana", "orange"]
 
 // 4-
-// const arr = [1, [2, 3], [4, [5, 6]]];
+// const arr = [1, [2, 3], [4, [5, [6]]]];
 // const result = arr.flat(Infinity);
 // console.log(result);
 // // [1, 2, 3, 4, 5, 6]

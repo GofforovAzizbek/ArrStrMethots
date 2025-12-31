@@ -1,0 +1,32 @@
+JavaScript Array va String Metodlari Konspekti
+
+EASY:
+reverse() - massivni teskari aylantiradi
+toUpperCase() - stringni katta harfga o‘tkazadi
+push() - massiv oxiriga element qo‘shadi
+length - uzunlikni qaytaradi
+replace() - stringdagi so‘zni almashtiradi
+arr[index] - indeks bo‘yicha element olish
+unshift() - massiv boshiga element qo‘shadi
+toLowerCase() - kichik harfga o‘tkazadi
+join() - massivni stringga aylantiradi
+
+MEDIUM:
+sort() - massivni tartiblaydi
+split() - stringni massivga bo‘ladi
+map() - har bir elementni o‘zgartiradi
+includes() - bor yoki yo‘qligini tekshiradi
+substring() - stringdan qism oladi
+filter() - shartga moslarini ajratadi
+indexOf() - indeksini topadi
+slice() - nusxa kesib oladi
+reduce() - bitta qiymatga yig‘adi
+replaceAll() - hammasini almashtiradi
+Math.max() - eng katta son
+every() - hammasi shartga mosmi
+
+HARD:
+Palindrom - so‘z teskari ham bir xil
+Set - takroriylarni olib tashlaydi
+flat() - ichma-ich massivni tekislaydi
+Capitalize - so‘z boshini katta qiladi
